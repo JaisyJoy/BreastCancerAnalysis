@@ -25,6 +25,7 @@ Make sure you have Python installed. You can install the required Python package
 
 ```bash
 pip install -r requirements.txt
+bash```
 
 The requirements.txt file includes the following libraries:
 
