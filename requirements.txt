@@ -1,7 +1,7 @@
-pandas
-numpy==1.24.3
+pandas==2.2.2
+numpy==1.26.0
 matplotlib
 scikit-learn
-streamlit
-tensorflow==2.16.2 
+streamlit==1.37.1
+tensorflow==2.16.2
 scikeras
