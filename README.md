@@ -67,11 +67,11 @@ To run the app, use the following command:
 
 ```bash
 streamlit run app.py
-```bash
+```
 Once the app is running, you can access it in your web browser by navigating to:
 ```bash
 http://localhost:8506/
-```bash
+```
 ![image](https://github.com/user-attachments/assets/99f1c14b-a763-496c-abd2-129e7603f873)
 
 
