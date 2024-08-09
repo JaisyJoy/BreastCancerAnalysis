@@ -1,7 +1,7 @@
-numpy==1.21.0 
-pandas==2.2.2
-matplotlib
-scikit-learn
-streamlit==1.37.1
-tensorflow==2.16.2
-scikeras
+numpy>=1.21.0,<1.26.0
+pandas>=1.3.0,<1.4.0
+matplotlib>=3.3.0,<4.0.0
+scikit-learn>=0.24.0,<1.0.0
+streamlit>=1.0,<2.0
+tensorflow>=2.6.0,<2.13.0
+scikeras>=0.2.0,<1.0.0
