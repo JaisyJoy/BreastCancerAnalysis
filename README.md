@@ -9,21 +9,21 @@ This project aims to build a predictive model to classify whether a patient has 
 ### Project Structure
 
 
-dataprep.ipynb: Jupyter notebook for data preprocessing.
-app.py: Python script for running the Streamlit web application.
-prediction.ipynb: Jupyter notebook for generating predictions using the trained model.
-breast_cancer_model.pkl: Trained machine learning model.
-scaler.pkl: Scaler object used to standardize the features.
-selected_columns.pkl: List of selected columns/features used in the model.
-selector.pkl: Column selector for preprocessing.
-requirements.txt: List of Python dependencies required for the project.
+- `dataprep.ipynb`: Jupyter notebook for data preprocessing.
+- `app.py`: Python script for running the Streamlit web application.
+- `prediction.ipynb`: Jupyter notebook for generating predictions using the trained model.
+- `breast_cancer_model.pkl`: Trained machine learning model.
+- `scaler.pkl`: Scaler object used to standardize the features.
+- `selected_columns.pkl`: List of selected columns/features used in the model.
+- `selector.pkl`: Column selector for preprocessing.
+- `requirements.txt`: List of Python dependencies required for the project.
 
 ### Setup Instructions
 
 1. Install Dependencies
 Make sure you have Python installed. You can install the required Python packages using pip:
 
-
+```bash
 pip install -r requirements.txt
 
 The requirements.txt file includes the following libraries:
