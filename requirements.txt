@@ -3,5 +3,5 @@ numpy==2.0.1
 matplotlib
 scikit-learn
 streamlit
-tensorflow
+tensorflow==2.12.0
 scikeras
