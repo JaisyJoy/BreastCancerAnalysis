@@ -23,8 +23,7 @@ requirements.txt: List of Python dependencies required for the project.
 1. Install Dependencies
 Make sure you have Python installed. You can install the required Python packages using pip:
 
-'''bash
-Copy code
+
 pip install -r requirements.txt
 
 The requirements.txt file includes the following libraries:
@@ -34,6 +33,7 @@ numpy
 matplotlib
 scikit-learn
 streamlit
+
 2. Data Preparation
 Open and run the dataprep.ipynb notebook to preprocess the data. This step involves:
 
@@ -71,7 +71,7 @@ http://localhost:8506/
 
 This will open the Streamlit web app where you can interact with the prediction model.
 
-Conclusion
+### Conclusion
 This project provides a complete pipeline for building, training, and deploying a breast cancer prediction model. The Jupyter notebooks allow for easy experimentation and analysis, while the Streamlit app provides an intuitive interface for end-users.
 
 
